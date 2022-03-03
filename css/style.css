@@ -322,7 +322,7 @@ main{
     opacity: 0;
 }
 
-.title-and-tex h{
+.title-and-tex h1{
     font-size: 2.5rem;
     font-weight: 500;
     margin-bottom: 30px;
